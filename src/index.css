@@ -26,9 +26,9 @@ li:hover::before {
   background: #2a68ff;
   color: #2a68ff;
 }
-/* .icon{
-    cursor: pointer;
-} */
+.icon {
+  cursor: pointer;
+}
 
 /* .card{
     background: #000;
