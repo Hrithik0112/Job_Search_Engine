@@ -11,20 +11,21 @@
 body {
   background: white;
 }
-/* li{
-    list-style: none;
-    cursor: pointer;
-    position: relative;
-} */
-/* li:hover::before{
-    position: absolute;
-    content: '';
-    height: 4px;
-    width: 100%;
-    right: 0;
-    background: #2a68ff;
-    color: #2a68ff;
-} */
+li {
+  list-style: none;
+  cursor: pointer;
+  position: relative;
+}
+li:hover::before {
+  position: absolute;
+  content: "";
+  height: 4px;
+  width: 100%;
+  right: 0;
+  bottom: -10px;
+  background: #2a68ff;
+  color: #2a68ff;
+}
 /* .icon{
     cursor: pointer;
 } */
