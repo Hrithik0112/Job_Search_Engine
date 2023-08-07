@@ -114,7 +114,7 @@ const JobDiv = () => {
             </div>
             <button
               className="border-[2px] block rounded-[10px] p-[10px] w-full text-[14px] font-semibold
-        text-textColor group-hover/item:text-textColor hover:bg-white group-hover:text-white hover:border-white "
+        text-textColor group-hover/item:text-textColor hover:bg-white  hover:border-white "
             >
               Apply Now
             </button>
