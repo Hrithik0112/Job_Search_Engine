@@ -10,7 +10,7 @@ const Data = [
     title: "web Developer",
     time: "now",
     location: "Canada",
-    desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit, corrupt labrossami",
+    desc: "A passionate react developer with industry experience or equivalent own project",
     company: "Dell Cooperation",
   },
   {
